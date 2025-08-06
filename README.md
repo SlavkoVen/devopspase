@@ -5,7 +5,7 @@ This is a simple Telegram bot written in Go, using the [cobra](https://github.co
 The bot listens to text messages and responds based on predefined commands.
 
 ## Bot Link
-[t.me/yaroslavvenher_bot.](t.me/yaroslavvenher_bot.)
+[t.me/yaroslavvenher_bot.](https://t.me/yaroslavvenher_bot.)
 
 ## Features
 - Responds to `/hello` with a friendly greeting
@@ -38,7 +38,7 @@ The bot listens to text messages and responds based on predefined commands.
 
 Send a message to your bot on Telegram:
 
-- `hello` — The bot replies with a greeting.
+- `hello` — The bot replies "Hello I'm Kbot [Version]".
 
 
 ## License
